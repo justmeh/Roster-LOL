@@ -1,0 +1,25 @@
+name = [] #data-champion
+title = [] #data-search
+games = [] #data-game games a part of
+type = [] #data-type
+role = [] #data-role
+link = [] #'https://leagueoflegends.fandom.com/'+href
+stats
+HP = [] #HP health points
+lvl_HP = [] #HP+ HP gained per level
+regenHP = [] #HP5 HP regeneration
+lvl_regenHP = [] #HP5+ HP regen gained per lvl
+MP = [] #MP Mana Points 
+lvl_MP = [] #MP+ MP gained per level
+regenMP = [] #MP5 MP regeneration
+lvl_regenMP = [] #MP5+ MP regen gained per lvl
+AD = [] #AD Attack Damage
+lvl_AD = [] #AD+ AD gained per lvl
+AS = [] #AS Attack Speed
+lvl_AS [] #AS+ AS gained per lvl
+AR = [] #AR Armor
+lvl_AR = [] #AR+ Armor gained per lvl
+MR = [] #MR Magic resistance
+lvl_MR = [] #MR+ MR gained per lvl
+MS = [] #MS Movement Speed
+Range = [] #Range
